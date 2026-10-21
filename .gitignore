@@ -1,0 +1,9 @@
+.gradle/
+.kotlin/
+.idea/
+build/
+app/build/
+local.properties
+*.apk
+# Backup of ~/.android/debug.keystore, the key that signs the installed app. Not in git.
+debug.keystore
